@@ -77,10 +77,16 @@
 
 <script>
 (function(){
-  var bp = document.createElement('script');
-  bp.src = '//push.zhanzhang.baidu.com/push.js';
-  var s = document.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(bp, s);
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
 })();
 </script>
 
@@ -186,33 +192,22 @@
     <ul class="category-list">
       
         <li class="category-item">
-          <h3 class="category-name" id="github"><i class="fa fa-coffee"></i>github</h3>
-          <ul class="post-list">
-            
-              <li>
-                <a href="/20170315/cj0c58x8y0002oop9318d9nfg.html">1.在GitHub上使用Hexo搭建博客教程</a>
-              </li>
-            
-          </ul>
-        </li>
-      
-        <li class="category-item">
-          <h3 class="category-name" id="hexo"><i class="fa fa-coffee"></i>hexo</h3>
-          <ul class="post-list">
-            
-              <li>
-                <a href="/20170315/cj0c58x8y0002oop9318d9nfg.html">1.在GitHub上使用Hexo搭建博客教程</a>
-              </li>
-            
-          </ul>
-        </li>
-      
-        <li class="category-item">
           <h3 class="category-name" id="第一次"><i class="fa fa-coffee"></i>第一次</h3>
           <ul class="post-list">
             
               <li>
-                <a href="/20160815/cj0c58xaf000aoop9xb558r8w.html">hello-world</a>
+                <a href="/20160815/cj0c5i3h70003gcp9qkudppkc.html">hello-world</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+        <li class="category-item">
+          <h3 class="category-name" id="github"><i class="fa fa-coffee"></i>github</h3>
+          <ul class="post-list">
+            
+              <li>
+                <a href="/20170315/cj0c5i3hc0004gcp9jrmsgdkm.html">1.在GitHub上使用Hexo搭建博客教程</a>
               </li>
             
           </ul>
@@ -223,7 +218,18 @@
           <ul class="post-list">
             
               <li>
-                <a href="/20170315/cj0c58xah000coop9boooogw2.html">欢迎使用-Cmd-Markdown-编辑阅读器</a>
+                <a href="/20170315/cj0c5i3hg0007gcp9em056fzs.html">欢迎使用-Cmd-Markdown-编辑阅读器</a>
+              </li>
+            
+          </ul>
+        </li>
+      
+        <li class="category-item">
+          <h3 class="category-name" id="hexo"><i class="fa fa-coffee"></i>hexo</h3>
+          <ul class="post-list">
+            
+              <li>
+                <a href="/20170315/cj0c5i3hc0004gcp9jrmsgdkm.html">1.在GitHub上使用Hexo搭建博客教程</a>
               </li>
             
           </ul>
