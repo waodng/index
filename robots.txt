@@ -1,6 +1,5 @@
 # hexo robots.txt
-User-agent: Baiduspider
-User-agent: Googlebot
+User-agent: *
 Allow: /
 Allow: /archives/
 
@@ -11,5 +10,8 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
+Sitemap: http://waodng.github.io/baidusitemap.xml
+Sitemap: https://waodng.github.io/baidusitemap.xml
 Sitemap: http://waodng.github.io/sitemap.xml
 Sitemap: https://waodng.github.io/sitemap.xml
+
