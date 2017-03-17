@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://waodng.github.io/"/>
-  <updated>2017-03-16T04:50:24.074Z</updated>
+  <updated>2017-03-17T15:14:58.838Z</updated>
   <id>http://waodng.github.io/</id>
   
   <author>
@@ -16,9 +16,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Madoko一个轻量级的在线编辑器</title>
+    <link href="http://waodng.github.io/20170317/cj0eaicco00056gp90jxh5j51.html"/>
+    <id>http://waodng.github.io/20170317/cj0eaicco00056gp90jxh5j51.html</id>
+    <published>2017-03-17T05:26:13.000Z</published>
+    <updated>2017-03-17T15:14:58.838Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Madoko"><a href="#Madoko" class="headerlink" title="Madoko"></a>Madoko</h1><p>Madoko is a fast markdown processor for writing professional articles<br>with a focus on simplicity and plain text readability.</p>
+<ul>
+<li>Read the <a href="http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html" title="Madoko reference manual" target="_blank" rel="external">reference manual</a>.</li>
+<li>Explore the upper-right toolbox menu to discover how Markdown works. </li>
+<li><code>Alt-Q</code> reformats the current paragraph.</li>
+</ul>
+<p>Enjoy!</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Madoko&quot;&gt;&lt;a href=&quot;#Madoko&quot; class=&quot;headerlink&quot; title=&quot;Madoko&quot;&gt;&lt;/a&gt;Madoko&lt;/h1&gt;&lt;p&gt;Madoko is a fast markdown processor for writing profes
+    
+    </summary>
+    
+      <category term="Madoko" scheme="http://waodng.github.io/categories/Madoko/"/>
+    
+    
+      <category term="Madoko" scheme="http://waodng.github.io/tags/Madoko/"/>
+    
+  </entry>
+  
+  <entry>
     <title>&#39;Test&#39;</title>
-    <link href="http://waodng.github.io/20170316/cj0cl0byb0002dkp9dso6bgu7.html"/>
-    <id>http://waodng.github.io/20170316/cj0cl0byb0002dkp9dso6bgu7.html</id>
+    <link href="http://waodng.github.io/20170316/cj0eaicd200086gp9jweg5hl5.html"/>
+    <id>http://waodng.github.io/20170316/cj0eaicd200086gp9jweg5hl5.html</id>
     <published>2017-03-16T04:50:24.000Z</published>
     <updated>2017-03-16T04:50:24.074Z</updated>
     
@@ -31,10 +59,10 @@
   
   <entry>
     <title>1.在GitHub上使用Hexo搭建博客教程</title>
-    <link href="http://waodng.github.io/20170315/cj0cl0bym0006dkp91u5dasc7.html"/>
-    <id>http://waodng.github.io/20170315/cj0cl0bym0006dkp91u5dasc7.html</id>
+    <link href="http://waodng.github.io/20170315/cj0eaicch00036gp9lojote59.html"/>
+    <id>http://waodng.github.io/20170315/cj0eaicch00036gp9lojote59.html</id>
     <published>2017-03-15T13:17:47.000Z</published>
-    <updated>2017-03-15T13:45:27.260Z</updated>
+    <updated>2017-03-17T13:07:02.876Z</updated>
     
     <content type="html"><![CDATA[<h1 id="1-在GitHub上使用Hexo搭建博客教程"><a href="#1-在GitHub上使用Hexo搭建博客教程" class="headerlink" title="1.在GitHub上使用Hexo搭建博客教程"></a>1.在GitHub上使用Hexo搭建博客教程</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有朋友问了我关于博客系统搭建相关的问题，由于是做开发相关的工作，我给他推荐的是使用github的gh-pages服务搭建个人博客。</p>
 <p>推荐理由：</p>
@@ -87,8 +115,7 @@
 <p>hexo命令缩写</p>
 <p>hexo g：hexo generate<br>hexo c：hexo clean<br>hexo s：hexo server<br>hexo d：hexo deploy<br>hexo命令组合</p>
 <p>hexo clean &amp;&amp; hexo g -s，就是清除、生成、启动<br>hexo clean &amp;&amp; hexo g -d，就是清除、生成、部署</p>
-<p>本文简单介绍Hexo的部署，接下来的文章会介绍Hexo的相关配置。</p>
-]]></content>
+<p>本文简单介绍Hexo的部署，接下来的文章会介绍Hexo的相关配置。</p>]]></content>
     
     <summary type="html">
     
@@ -107,10 +134,10 @@
   
   <entry>
     <title>欢迎使用 Cmd Markdown 编辑阅读器</title>
-    <link href="http://waodng.github.io/20170315/cj0cl0byv000adkp9miqvxbic.html"/>
-    <id>http://waodng.github.io/20170315/cj0cl0byv000adkp9miqvxbic.html</id>
+    <link href="http://waodng.github.io/20170315/cj0eaicd7000a6gp97085rf3h.html"/>
+    <id>http://waodng.github.io/20170315/cj0eaicd7000a6gp97085rf3h.html</id>
     <published>2017-03-15T12:44:14.000Z</published>
-    <updated>2017-03-15T13:09:32.779Z</updated>
+    <updated>2017-03-17T13:19:30.967Z</updated>
     
     <content type="html"><![CDATA[<h1 id="欢迎使用-Cmd-Markdown-编辑阅读器"><a href="#欢迎使用-Cmd-Markdown-编辑阅读器" class="headerlink" title="欢迎使用 Cmd Markdown 编辑阅读器"></a>欢迎使用 Cmd Markdown 编辑阅读器</h1><hr>
 <p>我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，<strong>Cmd Markdown</strong> 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：</p>
@@ -195,8 +222,7 @@
 <p>再一次感谢您花费时间阅读这份欢迎稿，点击 <i class="icon-file"></i> (Ctrl+Alt+N) 开始撰写新的文稿吧！祝您在这里记录、阅读、分享愉快！</p>
 <p>作者 <a href="http://weibo.com/ghosert" target="_blank" rel="external">@ghosert</a><br>2016 年 07月 07日    </p>
 <p>[^LaTeX]: 支持 <strong>LaTeX</strong> 编辑显示支持，例如：$\sum_{i=1}^n a_i=0$， 访问 <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="external">MathJax</a> 参考更多使用方法。</p>
-<p>[^code]: 代码高亮功能支持包括 Java, Python, JavaScript 在内的，<strong>四十一</strong>种主流编程语言。</p>
-]]></content>
+<p>[^code]: 代码高亮功能支持包括 Java, Python, JavaScript 在内的，<strong>四十一</strong>种主流编程语言。</p>]]></content>
     
     <summary type="html">
     
@@ -213,8 +239,8 @@
   
   <entry>
     <title>你好，世界!</title>
-    <link href="http://waodng.github.io/20160815/cj0cl0byi0004dkp93sac4dqp.html"/>
-    <id>http://waodng.github.io/20160815/cj0cl0byi0004dkp93sac4dqp.html</id>
+    <link href="http://waodng.github.io/20160815/cj0eaicd500096gp9118hq5xd.html"/>
+    <id>http://waodng.github.io/20160815/cj0eaicd500096gp9118hq5xd.html</id>
     <published>2016-08-15T13:17:47.000Z</published>
     <updated>2017-03-16T04:02:25.012Z</updated>
     
@@ -226,8 +252,7 @@
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
     
     <summary type="html">
     

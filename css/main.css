@@ -444,9 +444,7 @@ body {
   cursor: pointer;
   border-radius: 20px;
   transition: all .2s;
-}
-.back-top-btn:hover {
-  background: #3f86b5;
+  z-index:999;
 }
 
 @keyframes noise-anim {
