@@ -17,8 +17,8 @@
   
   <entry>
     <title>Madoko一个轻量级的在线编辑器</title>
-    <link href="http://waodng.github.io/20170317/cj0eax94e0004mop9sig0iwa9.html"/>
-    <id>http://waodng.github.io/20170317/cj0eax94e0004mop9sig0iwa9.html</id>
+    <link href="http://waodng.github.io/20170317/Madoko-online-Editer/zh-cn/"/>
+    <id>http://waodng.github.io/20170317/Madoko-online-Editer/zh-cn/</id>
     <published>2017-03-17T05:26:13.000Z</published>
     <updated>2017-03-17T15:14:58.838Z</updated>
     
@@ -44,25 +44,58 @@
   </entry>
   
   <entry>
-    <title>&#39;Test&#39;</title>
-    <link href="http://waodng.github.io/20170316/cj0eax94t000cmop90q1a7kdi.html"/>
-    <id>http://waodng.github.io/20170316/cj0eax94t000cmop90q1a7kdi.html</id>
+    <title>面朝大海，春暖花开</title>
+    <link href="http://waodng.github.io/20170316/look-at/zh-cn/"/>
+    <id>http://waodng.github.io/20170316/look-at/zh-cn/</id>
     <published>2017-03-16T04:50:24.000Z</published>
-    <updated>2017-03-16T04:50:24.074Z</updated>
+    <updated>2017-03-17T23:06:57.391Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>面朝大海，春暖花开</p>
+</blockquote>
+<p>#海子<br>　<br>从明天起，做一个幸福的人</p>
+<p>喂马，劈柴，周游世界</p>
+<p>从明天起，关心粮食和蔬菜</p>
+<p>我有一所房子，面朝大海，春暖花开</p>
+<p>从明天起，和每一个亲人通信</p>
+<p>告诉他们我的幸福</p>
+<p>那幸福的闪电告诉我的</p>
+<p>我将告诉每一个人</p>
+<p>给每一条河每一座山取一个温暖的名字</p>
+<p>陌生人，我也为你祝福</p>
+<p>愿你有一个灿烂的前程</p>
+<p>愿你有情人终成眷属</p>
+<p>愿你在尘世获得幸福</p>
+<p>我只愿面朝大海，春暖花开</p>]]></content>
     
     <summary type="html">
     
+      &lt;blockquote&gt;
+&lt;p&gt;面朝大海，春暖花开&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;#海子&lt;br&gt;　&lt;br&gt;从明天起，做一个幸福的人&lt;/p&gt;
+&lt;p&gt;喂马，劈柴，周游世界&lt;/p&gt;
+&lt;p&gt;从明天起，关心粮食和蔬菜&lt;/p&gt;
+&lt;p&gt;我有一所房子，面朝大海，春暖花开&lt;/p&gt;
+&lt;p
+    
     </summary>
     
+      <category term="三月" scheme="http://waodng.github.io/categories/%E4%B8%89%E6%9C%88/"/>
+    
+      <category term="安生" scheme="http://waodng.github.io/categories/%E4%B8%89%E6%9C%88/%E5%AE%89%E7%94%9F/"/>
+    
+    
+      <category term="大海啊" scheme="http://waodng.github.io/tags/%E5%A4%A7%E6%B5%B7%E5%95%8A/"/>
     
   </entry>
   
   <entry>
-    <title>1.在GitHub上使用Hexo搭建博客教程</title>
-    <link href="http://waodng.github.io/20170315/cj0eax9470002mop9xhojmeum.html"/>
-    <id>http://waodng.github.io/20170315/cj0eax9470002mop9xhojmeum.html</id>
+    <title>在GitHub上使用Hexo搭建博客教程</title>
+    <link href="http://waodng.github.io/20170315/One-Use-hexo-on-GitHub/zh-cn/"/>
+    <id>http://waodng.github.io/20170315/One-Use-hexo-on-GitHub/zh-cn/</id>
     <published>2017-03-15T13:17:47.000Z</published>
-    <updated>2017-03-17T13:07:02.876Z</updated>
+    <updated>2017-03-17T23:00:03.288Z</updated>
     
     <content type="html"><![CDATA[<h1 id="1-在GitHub上使用Hexo搭建博客教程"><a href="#1-在GitHub上使用Hexo搭建博客教程" class="headerlink" title="1.在GitHub上使用Hexo搭建博客教程"></a>1.在GitHub上使用Hexo搭建博客教程</h1><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>有朋友问了我关于博客系统搭建相关的问题，由于是做开发相关的工作，我给他推荐的是使用github的gh-pages服务搭建个人博客。</p>
 <p>推荐理由：</p>
@@ -134,8 +167,8 @@
   
   <entry>
     <title>欢迎使用 Cmd Markdown 编辑阅读器</title>
-    <link href="http://waodng.github.io/20170315/cj0eax94q000amop9378fzurr.html"/>
-    <id>http://waodng.github.io/20170315/cj0eax94q000amop9378fzurr.html</id>
+    <link href="http://waodng.github.io/20170315/Cmd-Markdown-Reader/zh-cn/"/>
+    <id>http://waodng.github.io/20170315/Cmd-Markdown-Reader/zh-cn/</id>
     <published>2017-03-15T12:44:14.000Z</published>
     <updated>2017-03-17T13:19:30.967Z</updated>
     
@@ -239,10 +272,10 @@
   
   <entry>
     <title>你好，世界!</title>
-    <link href="http://waodng.github.io/20160815/cj0eax94m0008mop94od9tqrj.html"/>
-    <id>http://waodng.github.io/20160815/cj0eax94m0008mop94od9tqrj.html</id>
+    <link href="http://waodng.github.io/20160815/Hello-Worlds/zh-cn/"/>
+    <id>http://waodng.github.io/20160815/Hello-Worlds/zh-cn/</id>
     <published>2016-08-15T13:17:47.000Z</published>
-    <updated>2017-03-16T04:02:25.012Z</updated>
+    <updated>2017-03-17T22:31:38.127Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -260,7 +293,7 @@
     
     </summary>
     
-      <category term="第一次" scheme="http://waodng.github.io/categories/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+      <category term="问候" scheme="http://waodng.github.io/categories/%E9%97%AE%E5%80%99/"/>
     
     
       <category term="Hexo" scheme="http://waodng.github.io/tags/Hexo/"/>
