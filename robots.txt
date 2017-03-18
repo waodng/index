@@ -10,6 +10,8 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
+Sitemap: https://waodng.github.io/search.xml
+Sitemap: http://waodng.github.io/search.xml
 Sitemap: http://waodng.github.io/baidusitemap.xml
 Sitemap: https://waodng.github.io/baidusitemap.xml
 Sitemap: http://waodng.github.io/sitemap.xml
