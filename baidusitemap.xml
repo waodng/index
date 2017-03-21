@@ -5,7 +5,7 @@
     
     
   <url>
-    <loc>http://waodng.github.io/zh-cn/look-at/</loc>
+    <loc>//waodng.github.io/zh-cn/look-at/</loc>
     <lastmod>2017-03-17T23:06:57.391Z</lastmod>
     <data>
         <display>
@@ -17,10 +17,10 @@
          
            
              
-              <breadCrumb title="三月" url="http://waodng.github.io/categories/%E4%B8%89%E6%9C%88/"/>
+              <breadCrumb title="三月" url="//waodng.github.io/categories/%E4%B8%89%E6%9C%88/"/>
           
              
-              <breadCrumb title="安生" url="http://waodng.github.io/categories/%E4%B8%89%E6%9C%88/%E5%AE%89%E7%94%9F/"/>
+              <breadCrumb title="安生" url="//waodng.github.io/categories/%E4%B8%89%E6%9C%88/%E5%AE%89%E7%94%9F/"/>
           
         </display>
     </data>
@@ -28,7 +28,7 @@
 
     
   <url>
-    <loc>http://waodng.github.io/zh-cn/One-Use-hexo-on-GitHub/</loc>
+    <loc>//waodng.github.io/zh-cn/One-Use-hexo-on-GitHub/</loc>
     <lastmod>2017-03-17T23:00:03.288Z</lastmod>
     <data>
         <display>
@@ -40,18 +40,19 @@
          
            
              
-              <breadCrumb title="github" url="http://waodng.github.io/categories/github/"/>
+              <breadCrumb title="github" url="//waodng.github.io/categories/github/"/>
           
              
-              <breadCrumb title="hexo" url="http://waodng.github.io/categories/github/hexo/"/>
+              <breadCrumb title="hexo" url="//waodng.github.io/categories/github/hexo/"/>
           
         </display>
     </data>
     </url>
 
     
+    
   <url>
-    <loc>http://waodng.github.io/zh-cn/Hello-Worlds/</loc>
+    <loc>//waodng.github.io/zh-cn/Hello-Worlds/</loc>
     <lastmod>2017-03-17T22:31:38.127Z</lastmod>
     <data>
         <display>
@@ -63,7 +64,7 @@
          
            
              
-              <breadCrumb title="问候" url="http://waodng.github.io/categories/%E9%97%AE%E5%80%99/"/>
+              <breadCrumb title="问候" url="//waodng.github.io/categories/%E9%97%AE%E5%80%99/"/>
           
         </display>
     </data>
@@ -71,7 +72,7 @@
 
     
   <url>
-    <loc>http://waodng.github.io/zh-cn/Madoko-online-Editer/</loc>
+    <loc>//waodng.github.io/zh-cn/Madoko-online-Editer/</loc>
     <lastmod>2017-03-17T15:14:58.838Z</lastmod>
     <data>
         <display>
@@ -83,7 +84,7 @@
          
            
              
-              <breadCrumb title="Madoko" url="http://waodng.github.io/categories/Madoko/"/>
+              <breadCrumb title="Madoko" url="//waodng.github.io/categories/Madoko/"/>
           
         </display>
     </data>
@@ -92,7 +93,7 @@
     
     
   <url>
-    <loc>http://waodng.github.io/zh-cn/Cmd-Markdown-Reader/</loc>
+    <loc>//waodng.github.io/zh-cn/Cmd-Markdown-Reader/</loc>
     <lastmod>2017-03-17T13:19:30.967Z</lastmod>
     <data>
         <display>
@@ -104,7 +105,7 @@
          
            
              
-              <breadCrumb title="技术" url="http://waodng.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+              <breadCrumb title="技术" url="//waodng.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
           
         </display>
     </data>
